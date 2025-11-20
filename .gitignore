@@ -1,1 +1,10 @@
-oki
+# 操作系统
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# 编辑器
+.vscode/
+.idea/
+*.sublime-workspace
